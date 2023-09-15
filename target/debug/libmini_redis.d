@@ -1,0 +1,1 @@
+/home/fyf/projects/myredis/target/debug/libmini_redis.rlib: /home/fyf/projects/myredis/idl/volo_example.thrift /home/fyf/projects/myredis/src/lib.rs /home/fyf/projects/myredis/target/debug/build/volo-gen-09c810a01ec89dd7/out/volo_gen.rs /home/fyf/projects/myredis/volo-gen/build.rs /home/fyf/projects/myredis/volo-gen/src/lib.rs /home/fyf/projects/myredis/volo-gen/volo.yml

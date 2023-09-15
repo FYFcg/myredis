@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=volo.yml
+cargo:rerun-if-changed=/home/fyf/projects/myredis/idl/volo_example.thrift

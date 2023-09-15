@@ -1,0 +1,1 @@
+{"rustc":6239673926508482045,"features":"","target":0,"profile":0,"path":0,"deps":[[1787572983305178320,"build_script_build",false,2824876191785532436]],"local":[{"RerunIfChanged":{"output":"debug/build/volo-gen-df416f19e158d964/output","paths":["volo.yml","/home/fyf/projects/myredis/idl/volo_example.thrift"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
